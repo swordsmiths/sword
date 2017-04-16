@@ -1,0 +1,10 @@
+[package]
+name = "sword"
+version = "0.1.0"
+authors = ["Coeuvre Wong <coeuvre@gmail.com>"]
+
+[lib]
+name = "sword"
+
+[dependencies]
+glutin = "*"
